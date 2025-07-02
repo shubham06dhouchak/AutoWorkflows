@@ -9,7 +9,7 @@ Welcome! I'm Shubham Dhouchak, a B.Tech CSE (AI & ML) student passionate about *
 
 ## 🚀 Featured Automations
 
-### 1. 🏡 [Real Estate Lead Scraper + CRM Pusher](https://github.com/yourusername/property-leads-automation)
+### 1. 🏡 [Real Estate Lead Scraper + CRM Pusher](https://github.com/shubham06dhouchak/AutoWorkflows/tree/main/Property%20lead%20Automation)
 
 This end-to-end workflow scrapes real estate listings, performs skip tracing to extract owner details, and sends leads directly to your CRM or Excel — all automated daily.
 
@@ -20,7 +20,7 @@ This end-to-end workflow scrapes real estate listings, performs skip tracing to 
 
 ---
 
-### 2. 📂 [Gmail Attachments Auto-Sorter to Google Drive](https://github.com/yourusername/gmail-drive-sorter)
+### 2. 📂 [Gmail Attachments Auto-Sorter to Google Drive](https://github.com/shubham06dhouchak/AutoWorkflows/tree/main/Gmail%20Drive%20Sorter%20Automation)
 
 Organizes email attachments into a `/Company/YYYY/MM` folder structure in Google Drive using a whitelisted email list from Google Sheets. Saves time and removes manual effort.
 
@@ -31,9 +31,9 @@ Organizes email attachments into a `/Company/YYYY/MM` folder structure in Google
 
 ---
 
-### 3. 📰 [Newsletter → LinkedIn AI Bot](https://github.com/yourusername/newsletter-to-linkedin-bot)
+### 3. 📰 [Newsletter → LinkedIn AI Bot](https://github.com/shubham06dhouchak/AutoWorkflows/tree/main/Newsletter-to-linkedin%20Bot)
 
-Reads Gmail newsletters from sources like `decodeai@ghost.io`, summarizes top AI news via OpenAI, and posts short, humorous updates to LinkedIn. Built for content creators and AI influencers.
+Reads Gmail newsletters from different sources, summarizes top AI news via OpenAI, and posts short, humorous updates to LinkedIn. Built for content creators and AI influencers.
 
 - 🧠 AI Summary: OpenAI GPT-4 (o3-mini)
 - 📝 LinkedIn post writing with tone control
